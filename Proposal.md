@@ -9,7 +9,7 @@ Team members:
 Frida Barragan - Group collaborator 1. Fourth year Biology major. I am interested in all aspects of healthcare but specifically in how accessibility to health services is affected by social factors that include income and location and how this intersects with race and ethnicity. 
 
 Kate McInerny - Group collaborator 2. Third year Public Affairs major and DH Minor. I’m interested in critical cartography, mapping for racial justice & community-based organizing work. I believe that many of our “social issues” require a public health framework/ holistic approach so that communities can thrive.
-<img src= "https://i.pinimg.com/originals/9d/55/98/9d5598fbbd1d48d19d7cbf077f006a07.jpg"  width="300px">
+<img src= "https://i.pinimg.com/originals/9d/55/98/9d5598fbbd1d48d19d7cbf077f006a07.jpg"  width="175px">
 
 Because we are a two-person team, we have decided we will split work equally as the project moves forward, rather than assigning strict “roles” for ourselves.
 
