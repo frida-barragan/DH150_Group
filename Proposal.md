@@ -1,15 +1,18 @@
 <b><h1>Mental health in Los Angeles County</h1></b>
 
-Introduction: 
-Group name - The health mappers.
-Group goals - We believe in health equity -- the idea that everybody should have access to healthy lives and life-affirming structures/institutions. With our project we hope to emphasize the lack of mental health accessibility and how this is an issue of racial and economic justice.
+<b>Introduction:</b> 
+<i>Group name - </i> The health mappers.
+<i> Group goals - </i> We believe in health equity -- the idea that everybody should have access to healthy lives and life-affirming structures/institutions. With our project we hope to emphasize the lack of mental health accessibility and how this is an issue of racial and economic justice.
 
-Team members: 
-
+<b>Team members: </b>
+<img src= "![IMG_0694_Original](https://user-images.githubusercontent.com/77029932/114334395-58acf500-9aff-11eb-8ac7-8598169e7f91.jpg)">
 Frida Barragan - Group collaborator 1. Fourth year Biology major. I am interested in all aspects of healthcare but specifically in how accessibility to health services is affected by social factors that include income and location and how this intersects with race and ethnicity. 
 
+<p align= "center">
+  <img src= "https://i.pinimg.com/originals/9d/55/98/9d5598fbbd1d48d19d7cbf077f006a07.jpg"  width="175px">
+  </p>
 Kate McInerny - Group collaborator 2. Third year Public Affairs major and DH Minor. I’m interested in critical cartography, mapping for racial justice & community-based organizing work. I believe that many of our “social issues” require a public health framework/ holistic approach so that communities can thrive.
-<img src= "https://i.pinimg.com/originals/9d/55/98/9d5598fbbd1d48d19d7cbf077f006a07.jpg"  width="175px">
+
 
 Because we are a two-person team, we have decided we will split work equally as the project moves forward, rather than assigning strict “roles” for ourselves.
 
