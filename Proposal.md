@@ -42,42 +42,42 @@ Web mapping is a useful tool because it uses geographic data to create geospatia
 <b>Workflow:</b>
 <br>
 <br>
+
 | Week    | Task/Deliverable (by Sunday)    | 
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 2       | Project Proposal                |
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 3       | Preliminary data exploration.   |
 |         |  Ask specific questions of our dataset |
 |         |  Enhance with additional literature review |
 |         |  Narrow in on intersecting issue(s) with mental health in LA)    | 
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 4       | Preliminary data analysis | 
 |         | Analyze findings: What are the general trends? Outliers? Do any questions arise from this data for further analysis? |
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 5       | Preliminary mapping |
 |         | Code/visualize data |
 |         | Analyze findings: What trends stand out in the map? What other questions arise here?   | 
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 6       | Flesh out narrative |
 |         | Start to form a thesis/theme |
 |         | Write Intro and short literature review (that is more focused in on our thesis and sets the stage for our data analysis)|
 |         |What does our analysis add to the conversation?               |
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 7       | Narrative/data work | 
 |         | Focus on which visualizations are most useful and insightful for our project: What adds to the conversation? |
 |         |Clarify maps/visualizations & write analysis to continue narrative    |
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 8       | Web design |
 |         | Start designing web & beautifying maps/data into one aesthetic |
 |         | Continue narrative development with data             |
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 9       | Finalize narrative | 
 |         | Editing for clarity & conciseness | 
 |         | Forming one cohesive narrative with our data    | 
-| ---   | ----------------------------- |
+| :---:   | :-----------------------------: |
 | 10       | Finalize website |
 |          |Editing & technical touches|
-| ---   | ----------------------------- |
 <br>
 <br>
 <b>Technical scope:</b>
