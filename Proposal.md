@@ -1,4 +1,4 @@
-<b><h1>Mental health in Los Angeles County</h1></b>
+<b><h1>Mental Health in Los Angeles County</h1></b>
 
 <b>Introduction:</b> 
 <br>
