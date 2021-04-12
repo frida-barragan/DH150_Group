@@ -5,7 +5,7 @@
 <i> Group goals - </i> We believe in health equity -- the idea that everybody should have access to healthy lives and life-affirming structures/institutions. With our project we hope to emphasize the lack of mental health accessibility and how this is an issue of racial and economic justice.
 
 <b>Team members: </b>
-![Frida Barragan](IMG_0694_Original.jpg | width=100)
+![Frida Barragan](IMG_0694_Original.jpg =250x250)
 
 Frida Barragan - Group collaborator 1. Fourth year Biology major. I am interested in all aspects of healthcare but specifically in how accessibility to health services is affected by social factors that include income and location and how this intersects with race and ethnicity. 
 
