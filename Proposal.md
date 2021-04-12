@@ -1,3 +1,5 @@
+<b><h1>Mental health in Los Angeles County</h1></b>
+
 Introduction: 
 Group name - The health mappers.
 Group goals - We believe in health equity -- the idea that everybody should have access to healthy lives and life-affirming structures/institutions. With our project we hope to emphasize the lack of mental health accessibility and how this is an issue of racial and economic justice.
