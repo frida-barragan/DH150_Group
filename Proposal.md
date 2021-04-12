@@ -5,7 +5,7 @@
 <i> Group goals - </i> We believe in health equity -- the idea that everybody should have access to healthy lives and life-affirming structures/institutions. With our project we hope to emphasize the lack of mental health accessibility and how this is an issue of racial and economic justice.
 
 <b>Team members: </b>
-![Frida Barragan](IMG_0694_Original.jpg =250x250)
+<img src= "IMG_0694_Original.jpg")
 
 Frida Barragan - Group collaborator 1. Fourth year Biology major. I am interested in all aspects of healthcare but specifically in how accessibility to health services is affected by social factors that include income and location and how this intersects with race and ethnicity. 
 
@@ -80,6 +80,6 @@ Trend data tables from the Department of Public Health in Los Angeles. This webs
 
 Link : http://www.publichealth.lacounty.gov/ha/ha_data_TRENDS.htm#NewAdult_HB
 
-Los Angeles demographic distribution from the Census Reporter separated by area blocks. This data includes percentages of total population and geographic distribution of all the different racial and enthic groups within Los Angeles County.
+Los Angeles demographic distribution from the Census Reporter separated by area blocks. This data includes percentages of total population and geographic distribution of all the different racial and ethnic groups within Los Angeles County.
 
 Link: https://censusreporter.org/data/table/?table=B03002&geo_ids=16000US0644000,05000US06037,31000US31080,04000US06,01000US,140|16000US0644000,150|16000US0644000,860|16000US0644000,150|16000US0644000&primary_geo_id=16000US0644000
