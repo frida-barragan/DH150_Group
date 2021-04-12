@@ -84,11 +84,17 @@ Web mapping is a useful tool because it uses geographic data to create geospatia
 <br>
 <br>
 <i> Git - </i> We will use Git to collaborate on the same files and have a record of the changes that are being made of our code. We will also use it to make sure our data is stored safely and we can always look back at it.  
-Leaflet - We will use this tool to map all of our data sets and add markers to make interactive and appealing images that add to the overall narrative.
+<br>
+<i>Leaflet -</i> We will use this tool to map all of our data sets and add markers to make interactive and appealing images that add to the overall narrative.
+<br>
 <i> HTML - </i> We will use HTML to display our images in a website that is user friendly and creates an impactful story that highlights the social issues and questions we are raising.
+<br>
 <i> Javascript - </i> We will use javascript and its functions as our programming language to make our website more interactive and better the user experience. 
+<br>
 <i> Jupyter - </i> We will use Jupyter to create static maps and map the demographic distributions of the Los Angeles population.
+<br>
 <i> Tableau - </i> We will use Tableau to create histograms and charts to give variance to our story board and show our data in different ways.
+<br>
 <i> Visual Studio Code - </i> We will use Visual Studio Code to edit our html code and to make sure that the website we are creating works. We will use it to save our files into Github and push them into our URLs.
 <br>
 <br>
