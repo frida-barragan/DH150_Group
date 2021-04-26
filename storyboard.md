@@ -34,8 +34,7 @@ Kate's reaction:
 <h4> Kate  </h4>
 <br>
 <p align= "center">  
-<img width= "700" alt="IMG_3873" src="![IMG_3873](https://user-images.githubusercontent.com/81277714/116028921-e6a2d880-a5f3-11eb-8102-0c75f02877a2.jpg)
-">
+<img width= "700" alt="IMG_3873" src="https://user-images.githubusercontent.com/81277714/116028921-e6a2d880-a5f3-11eb-8102-0c75f02877a2.jpg">
   
 </p>
 <br>
