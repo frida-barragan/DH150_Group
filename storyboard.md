@@ -7,7 +7,7 @@
 </p>
 <br>
 <br>
-Kate's reaction:
+Kate's reaction: I like how logical the flow is and the inclusion of public & private care facilities to map.
 
 <h4> Kate  </h4>
 <br>
