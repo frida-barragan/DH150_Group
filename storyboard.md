@@ -41,4 +41,5 @@ Frida's reaction:
 <br>
 
 <h1> Storyboard </h1>
+<img width="504" alt="Screen Shot 2021-04-25 at 8 32 28 PM" src="https://user-images.githubusercontent.com/77029932/116025444-5c637000-a605-11eb-9b76-f7e2914b360f.png">
 
