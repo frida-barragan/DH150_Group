@@ -16,7 +16,7 @@ Kate's reaction: I like how logical the flow is and the inclusion of public & pr
 </p>
 <br>
 <br>
-Frida's reaction:
+Frida's reaction: I really like all the material that is in the map! I think it is a great way to synthesize ideas and also can give us insight as to what we can possibly map about. I like how the ideas so clearly connect to each other and create a narrative within the mindmap.
 <br>
 <br>
 
@@ -39,7 +39,7 @@ Kate's reaction: You bring up really important questions about language barriers
 </p>
 <br>
 <br>
-Frida's reaction:
+Frida's reaction: I really like that historical background idea! I think that it will be very useful in creating a complete idea as to what the issue is and how long it has been happening for. I also really liked how you delineated the narrative in a concise way and how you mentioned community-based approaches to the mental health crisis that LA county, and most of the country, is living in.
 <br>
 <br>
 
