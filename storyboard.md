@@ -29,7 +29,7 @@ Frida's reaction:
 </p>
 <br>
 <br>
-Kate's reaction:
+Kate's reaction: You bring up really important questions about language barriers and gender and their relation to mental health. I also noticed how we both were thinking about the way mental health intersects with other public issues.
 
 <h4> Kate  </h4>
 <br>
