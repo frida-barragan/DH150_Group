@@ -177,7 +177,5 @@ Frida's reaction: I really like that historical background idea! I think that it
 <br>
 <br>
 
-<b> Storyboard </b>
-<p align = "center">
-<img width="504" alt="Screen Shot 2021-04-25 at 8 32 28 PM" src="https://user-images.githubusercontent.com/77029932/116025444-5c637000-a605-11eb-9b76-f7e2914b360f.png">
-</p>
+<a href= https://www.figma.com/file/f38H5SPmuXftyW2S46N79f/Storyboard?node-id=0%3A1><b> Figma Storyboard </a> </b>
+
