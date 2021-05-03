@@ -177,5 +177,5 @@ Frida's reaction: I really like that historical background idea! I think that it
 <br>
 <br>
 
-<a href= https://www.figma.com/file/f38H5SPmuXftyW2S46N79f/Storyboard?node-id=0%3A1><b> Figma Storyboard </a> </b>
+<a href= "https://www.figma.com/file/f38H5SPmuXftyW2S46N79f/Storyboard?node-id=0%3A1"><b> Figma Storyboard </a> </b>
 
